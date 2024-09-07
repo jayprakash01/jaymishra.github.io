@@ -3,8 +3,8 @@
 ## Contact Information
 - **Email**: [jayprakash01@gmail.com](mailto:jayprakash01@gmail.com)
 - **Phone**: (+91) 9953477708
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
-- **GitHub**: [Your GitHub](https://github.com/jayprakash01)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/jay-prakash-mishra-75695710/)
+- **GitHub**: [GitHub](https://github.com/jayprakash01)
 
 ## Summary
 Overall, 17 Years of work experience in web development activities, requirement analysis, architect, coding, maintenance and deployment of software. Expertise in Drupal, Migration, PHP & MySQL, Web Services API, E-commerce, HTML 5, JavaScript, ReactJS, CSS, MVC Framework.
