@@ -14,8 +14,8 @@ Skills in managing multiple tasks often with competing deadlines, self-motivated
 Solid experience working in IT Company Srijan Technologies, world-leading advertising and digital agency like MRM McCann and innovative digital product engineering companies like Global logic etc.
 
 ## Skills
-- Skill 1
-- Skill 2
+- Web Development
+- Deployment Management
 
 ## Experience
 ### Job Title at Company
